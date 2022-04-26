@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](My Portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio]
 
 - 💬 Ask me about **MERN,HTML,CSS,Js**
 
