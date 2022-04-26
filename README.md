@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Priyanshu kumar </Developer></h1>
-<h3 align="center">A passionate fullStack developer | MERN Developer</h3>
+<h3 align="center">A passionate FullStack developer | MERN Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif">
 
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at My Portfolio
 
-- 💬 Ask me about **MERN,HTML,CSS,Js**
+- 💬 Ask me about **MERN ,HTML, CSS, JS**
 
 - 📫 How to reach me **priyanshukumar2455@gmail.com**
 
